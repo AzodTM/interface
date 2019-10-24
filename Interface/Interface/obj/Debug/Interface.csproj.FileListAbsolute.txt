@@ -1,0 +1,9 @@
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Azod\Documents\Programmer\C#\Intarface\Interface\Interface\obj\Debug\Interface.View.resources
