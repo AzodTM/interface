@@ -56,8 +56,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zoo\Bird.cs" />
+    <Compile Include="Zoo\Fish.cs" />
     <Compile Include="Zoo\IAnamalDo.cs" />
     <Compile Include="Zoo\Animal.cs" />
+    <Compile Include="Zoo\Reptilia.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

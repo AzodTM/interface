@@ -6,10 +6,16 @@ using System.Threading.Tasks;
 
 namespace Interface.Zoo
 {
-    class Animal
+    abstract class Animal
     {
-        int size;
-        int[] coordinate;
-        string voise;
+        protected int size;
+        protected int coordinate;
+        protected string voise;
+
+        public Animal()
+        {
+            size = 1;
+            coordinate = 0;
+        }
     }
 }
